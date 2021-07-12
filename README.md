@@ -1,8 +1,8 @@
-- 👋 Hi, Quốc Anh đây
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello bạn trẻ :3
+- 👀 Tôi là Quốc Anh
+- 🌱 Tôi là một người đep zai vl
+- 💞️ tui gử cho bạn xem cái này 
+- 📫 và giờ hãy xem tôiiiii 
 
 <!---
 Quocanhhere/Quocanhhere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
